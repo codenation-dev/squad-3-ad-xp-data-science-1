@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xhouMuqrRZWZEweikTl7XTDYTaZRDIM9)
+[Apresentação](https://docs.google.com/presentation/d/1Kv4FdKFoGG4bzyS0Nf1ztUu0QMNmVzeR906W2TLnamM/edit?usp=sharing)
 
 ## Objetivo
 
